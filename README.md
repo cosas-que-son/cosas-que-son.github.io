@@ -1,2 +1,2 @@
-# cosas-que-son.github.io
+# On Programming, Free and Open-Source Software, Technology & Society
 My blog
