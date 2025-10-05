@@ -1,3 +1,5 @@
+*[Home](../../README.md)*
+
 # AI: Open Source Software to the rescue
 *February 4, 2025*
 

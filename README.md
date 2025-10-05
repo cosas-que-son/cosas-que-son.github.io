@@ -1,4 +1,4 @@
-# On Programming, Free and Open-Source Software, Technology & Society
+# On Programming, Open-Source Software and ...
 My blog
 
 ## 2025
